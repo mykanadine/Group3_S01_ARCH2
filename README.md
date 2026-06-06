@@ -50,12 +50,9 @@ There will be a 10 item multiple choice quiz at the end that will contain questi
 
 
 
-## Mobile-Responsive Layout
+## Desktop & Mobile-Responsive Layout
+Link: https://drive.google.com/file/d/1gFEr38e7M70-6JbQWVFXl4N3BSNT_RMC/view?usp=sharing
 
-
-
-## Desktop Layout
-*Mockup/design to be added.*
 
 ## Sources
 1. Palo Alto Networks. *History of Firewalls*  
