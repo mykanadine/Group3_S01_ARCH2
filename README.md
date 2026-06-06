@@ -51,7 +51,7 @@ There will be a 10 item multiple choice quiz at the end that will contain questi
 
 
 ## Desktop & Mobile-Responsive Layout
-Link: https://drive.google.com/file/d/1gFEr38e7M70-6JbQWVFXl4N3BSNT_RMC/view?usp=sharing
+See Google Drive [Link] (https://drive.google.com/file/d/1gFEr38e7M70-6JbQWVFXl4N3BSNT_RMC/view?usp=sharing)
 
 
 ## Sources
