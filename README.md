@@ -13,22 +13,22 @@
 ## Brief Content Overview
 
 ### What is a Firewall?
-Explain what a firewall is, its role in network security, and why it is important.
+Explain what a firewall is, its purpose in network security, and why it is important.
 
 ### First Generation of Firewalls (Packet Filtering Firewalls)
-Discuss the first generation of firewalls, how packet filtering worked, and its advantages and limitations.
+Discuss the first generation of Firewalls, how packet filtering worked, and their advantages and limitations.
 
 ### Second Generation of Firewalls (Stateful Firewalls)
-Explain how stateful firewalls work, how they improved network security, and highlight their advantages and limitations.
+Explain how stateful firewalls work, how they improved network security, and highlight both their advantages and limitations.
 
 ### Third Generation of Firewalls (Next Generation Firewalls)
-Discuss the mark of the new era in network security, how firewalls are now capable of deeper inspection, and its advantages and limitations
+Discuss the mark of the new era in network security, how firewalls are now capable of deeper inspection, and their advantages and limitations.
 
 ### Fourth Generation of Firewalls (ML-Powered Next Generation Firewalls)
-Discuss how machine learning and AI are being utilized into firewalls, its advantages and disadvantages
+Discuss how machine learning and AI are being utilized in firewalls, and their advantages and disadvantages.
 
 ### What's Next?
-Discuss latest trends and insights  in firewall technology and the  future challenges it might need to address as technology continues to evolve.
+Discuss the latest trends and insights in firewall technology and the future challenges it might need to address as the technology continues to evolve.
 
 ## Tech Stack Plan
 - **MDX** – Content pages
