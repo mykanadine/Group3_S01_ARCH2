@@ -48,15 +48,15 @@ Pressing a button will make a pop-up appear containing a fun fact about firewall
 There will be a 10 item multiple choice quiz at the end that will contain questions about the content of the exhibit.
 
 
-## Mobile-Responsive Layout
-
-
 ## Tentative Style Guide
 ### Color Palette and Font Styles
 <img width="251" height="152" alt="image" src="https://github.com/user-attachments/assets/146f97bb-5754-4720-a3ca-69087e0a8a24" />
 
+## Mobile-Responsive Layout
 
-### Desktop Layout
+
+
+## Desktop Layout
 *Mockup/design to be added.*
 
 ## Sources
