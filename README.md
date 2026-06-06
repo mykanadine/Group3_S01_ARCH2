@@ -52,19 +52,9 @@ There will be a 10 item multiple choice quiz at the end that will contain questi
 
 
 ## Tentative Style Guide
-### Color Palette
-#3b6bdf
-#664700
-#68b27f
-#f1bbe0
-#fffcf4
+### Color Palette and Font Styles
+<img width="251" height="152" alt="image" src="https://github.com/user-attachments/assets/146f97bb-5754-4720-a3ca-69087e0a8a24" />
 
-<img width="216" height="58" alt="image" src="https://github.com/user-attachments/assets/d0b50757-f757-4346-b15a-bf5351025ad9" />
-
-
-
-### Font Styles
-*To be finalized.*
 
 ### Desktop Layout
 *Mockup/design to be added.*
