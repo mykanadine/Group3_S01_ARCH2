@@ -50,7 +50,8 @@ There will be a 10 item multiple choice quiz at the end that will contain questi
 
 ## Tentative Style Guide
 ### Color Palette and Font Styles
-<img width="251" height="152" alt="image" src="https://github.com/user-attachments/assets/146f97bb-5754-4720-a3ca-69087e0a8a24" />
+<img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/db9b3ec6-1505-4d6c-9164-e98fb0c96047" />
+
 
 ## Mobile-Responsive Layout
 
