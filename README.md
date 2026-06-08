@@ -23,38 +23,37 @@
    1. <mark>802.11b</mark>
    1. <mark>802.11a</mark>
    1. <mark>802.11g</mark>
-1. Limitations
-   1. Interference with Bluetooth devices due to sharing the same frequency bandwidth
-   1. Insufficient throughput and interoperability issues
+1. <mark>Limitations</mark>
+   1. <mark>Interference with Bluetooth devices due to sharing the same frequency bandwidth</mark>
+   1. <mark>Insufficient throughput and interoperability issues</mark>
 
-### Wi-Fi 4 
-1. Major changes and improvements introduced by Wi-Fi 4 (first to be ready for commercial use)
-1. Advantages
-   1. Introduction of Multiple-Input and Multiple-Output (MIMO)
-   1. 40 MHz channels to the physical layer
-   1. Frame aggregation to the Media Access Control Layer
-1. Limitations
-
-
-### Wi-Fi 5 
-1. Major improvements in this Wi-Fi generation
-   1. Multi-User, Multiple-Input, and Multiple-Output (MU-MIMO)
-   1. Increase in bandwidth
-   1. Beamforming
-1. Discuss limitations
+### <mark> Wi-Fi 4 </mark>
+1. <mark>Major changes and improvements introduced by Wi-Fi 4 (first to be ready for commercial use)</mark>
+1. <mark>Advantages</mark>
+   1. <mark>Introduction of Multiple-Input and Multiple-Output (MIMO)</mark>
+   1. <mark>40 MHz channels to the physical layer</mark>
+   1. <mark>Frame aggregation to the Media Access Control Layer</mark>
+1. <mark>Limitations</mark>
 
 
-### Wi-Fi 6 & Wi-Fi 6E 
-1. Improvements on previous generations
-   1. Dual-band technology working in 2.4 and 5 GHz frequencies
-   2. Orthogonal Frequency-Division Multiple Access (OFDMA)
-   3. Wi-Fi 6E works in the 6 GHz band
-1. Limitations
+### <mark>Wi-Fi 5 </mark>
+1. <mark>Major improvements in this Wi-Fi generation</mark>
+   1. <mark>Multi-User, Multiple-Input, and Multiple-Output (MU-MIMO)</mark>
+   1. <mark>Increase in bandwidth</mark>
+   1. <mark>Beamforming</mark>
+1. <mark>Discuss limitations</mark>
 
-### Wi-Fi 7 
-1. Introduction of Multi-Link Operation
-2. Highlight potential challenges and limitations
-</mark>
+
+### <mark>Wi-Fi 6 & Wi-Fi 6E </mark>
+1. <mark>Improvements on previous generations</mark>
+   1. <mark>Dual-band technology working in 2.4 and 5 GHz frequencies</mark>
+   2. <mark>Orthogonal Frequency-Division Multiple Access (OFDMA)</mark>
+   3. <mark>Wi-Fi 6E works in the 6 GHz band</mark>
+1. <mark>Limitations</mark>
+
+### <mark>Wi-Fi 7 </mark>
+1. <mark>Introduction of Multi-Link Operation</mark>
+2. <mark>Highlight potential challenges and limitations</mark>
 
 ## Tech Stack Plan
 - **MDX** – Content pages
