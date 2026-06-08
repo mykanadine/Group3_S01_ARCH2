@@ -27,17 +27,34 @@
    1. Interference with Bluetooth devices due to sharing the same frequency bandwidth
    1. Insufficient throughput and interoperability issues
 
-### Second Generation of Firewalls (Stateful Firewalls)
-Explain how stateful firewalls work, how they improved network security, and highlight both their advantages and limitations.
+### Wi-Fi 4 
+1. Major changes and improvements introduced by Wi-Fi 4 (first to be ready for commercial use)
+1. Advantages
+   1. Introduction of Multiple-Input and Multiple-Output (MIMO)
+   1. 40 MHz channels to the physical layer
+   1. Frame aggregation to the Media Access Control Layer
+1. Limitations
 
-### Third Generation of Firewalls (Next Generation Firewalls)
-Discuss the mark of the new era in network security, how firewalls are now capable of deeper inspection, and their advantages and limitations.
 
-### Fourth Generation of Firewalls (ML-Powered Next Generation Firewalls)
-Discuss how machine learning and AI are being utilized in firewalls, and their advantages and disadvantages.
+### Wi-Fi 5 
+1. Major improvements in this Wi-Fi generation
+   1. Multi-User, Multiple-Input, and Multiple-Output (MU-MIMO)
+   1. Increase in bandwidth
+   1. Beamforming
+1. Discuss limitations
 
-### What's Next?
-Discuss the latest trends and insights in firewall technology and the future challenges it might need to address as the technology continues to evolve.
+
+### Wi-Fi 6 & Wi-Fi 6E 
+1. Improvements on previous generations
+   1. Dual-band technology working in 2.4 and 5 GHz frequencies
+   2. Orthogonal Frequency-Division Multiple Access (OFDMA)
+   3. Wi-Fi 6E works in the 6 GHz band
+1. Limitations
+
+### Wi-Fi 7 
+1. Introduction of Multi-Link Operation
+2. Highlight potential challenges and limitations
+
 
 ## Tech Stack Plan
 - **MDX** – Content pages
