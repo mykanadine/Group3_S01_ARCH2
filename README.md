@@ -16,8 +16,16 @@
 1. What is Wi-Fi and its purpose?
 1. How wireless communication works
 
-### First Generation of Firewalls (Packet Filtering Firewalls)
-Discuss the first generation of Firewalls, how packet filtering worked, and their advantages and limitations.
+### Wi-Fi 0 to Wi-Fi 3
+1. Early Wi-Fi standards and architecture behind early wireless communication 
+1. Early Versions
+   1. 802.11
+   1. 802.11b
+   1. 802.11a
+   1. 802.11g
+1. Limitations
+   1. Interference with Bluetooth devices due to sharing the same frequency bandwidth
+   1. Insufficient throughput and interoperability issues
 
 ### Second Generation of Firewalls (Stateful Firewalls)
 Explain how stateful firewalls work, how they improved network security, and highlight both their advantages and limitations.
