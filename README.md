@@ -7,9 +7,9 @@
 - Eiress Ong
 - Kai Wen Xu
 
-<mark>
-## Topic Theme
-**The Evolution of Wi-Fi**
+
+## <mark>Topic Theme
+**The Evolution of Wi-Fi</mark>**
 
 ## Brief Content Overview
 
