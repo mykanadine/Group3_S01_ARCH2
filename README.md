@@ -7,6 +7,7 @@
 - Eiress Ong
 - Kai Wen Xu
 
+<mark>
 ## Topic Theme
 **The Evolution of Wi-Fi**
 
@@ -53,7 +54,7 @@
 ### Wi-Fi 7 
 1. Introduction of Multi-Link Operation
 2. Highlight potential challenges and limitations
-
+</mark>
 
 ## Tech Stack Plan
 - **MDX** – Content pages
