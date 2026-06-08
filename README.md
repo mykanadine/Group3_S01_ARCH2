@@ -8,21 +8,21 @@
 - Kai Wen Xu
 
 
-## <mark>Topic Theme
-**The Evolution of Wi-Fi</mark>**
+## <mark>Topic Theme</mark>
+**<mark>The Evolution of Wi-Fi</mark>**
 
-## Brief Content Overview
+## <mark>Brief Content Overview</mark>
 
-### What is Wi-Fi?
-1. What is Wi-Fi and its purpose?
-1. How wireless communication works
+### <mark>What is Wi-Fi?</mark>
+1. <mark>What is Wi-Fi and its purpose?</mark>
+1. <mark>How wireless communication works</mark>
 
-### Wi-Fi 0 to Wi-Fi 3
-1. Early Wi-Fi standards and architecture behind early wireless communication 
-   1. 802.11
-   1. 802.11b
-   1. 802.11a
-   1. 802.11g
+### <mark>Wi-Fi 0 to Wi-Fi 3</mark>
+1. <mark>Early Wi-Fi standards and architecture behind early wireless communication </mark>
+   1. <mark>802.11</mark>
+   1. <mark>802.11b</mark>
+   1. <mark>802.11a</mark>
+   1. <mark>802.11g</mark>
 1. Limitations
    1. Interference with Bluetooth devices due to sharing the same frequency bandwidth
    1. Insufficient throughput and interoperability issues
