@@ -8,12 +8,13 @@
 - Kai Wen Xu
 
 ## Topic Theme
-**Evolution of Firewalls**
+**The Evolution of Wi-Fi**
 
 ## Brief Content Overview
 
-### What is a Firewall?
-Explain what a firewall is, its purpose in network security, and why it is important.
+### What is Wi-Fi?
+1. What is Wi-Fi and its purpose?
+1. How wireless communication works
 
 ### First Generation of Firewalls (Packet Filtering Firewalls)
 Discuss the first generation of Firewalls, how packet filtering worked, and their advantages and limitations.
