@@ -76,12 +76,10 @@ There will be a 10 item multiple choice quiz at the end that will contain questi
 
 
 ## Desktop & Mobile-Responsive Layout
-See [Google Drive Link](https://drive.google.com/file/d/1gFEr38e7M70-6JbQWVFXl4N3BSNT_RMC/view?usp=sharing)
+See [Google Drive Link](https://drive.google.com/file/d/1fdIMgzkq_v6f6jqpzgnoJ0aKdvYnCC3i/view?usp=sharing)
 
 
 ## Sources
-1. Palo Alto Networks. *History of Firewalls*  
-   https://www.paloaltonetworks.com/cyberpedia/history-of-firewalls
+1. [Ethernet Xpress. *Wi-Fi Generations Explained: From Wi-Fi 0 to Wi-Fi 7*](https://expl.in/wifi-generations-explained-wifi-0-to-wifi-7/)
 
-2. Palo Alto Networks. *What Is a Firewall?*  
-   https://www.paloaltonetworks.com/cyberpedia/what-is-a-firewall
+2. [Cees Links. *The Evolution of Wi-Fi networks: from IEEE 802.11 to Wi-Fi 6E*](https://www.wevolver.com/article/the-evolution-of-wi-fi-networks-from-ieee-80211-to-wi-fi-6e)
