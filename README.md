@@ -18,7 +18,6 @@
 
 ### Wi-Fi 0 to Wi-Fi 3
 1. Early Wi-Fi standards and architecture behind early wireless communication 
-1. Early Versions
    1. 802.11
    1. 802.11b
    1. 802.11a
